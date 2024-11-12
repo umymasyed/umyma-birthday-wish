@@ -3,7 +3,7 @@ const messages = [
     "Wishing you a year of amazing adventures ahead!",
     "Your presence makes the world a brighter place!",
     "May all your dreams and wishes come true!",
-    "Here's to another year of creating beautiful memories!"
+    "Here's to another year of creating beautiful memories!",
     "May your day be filled with joy and laughter!",
     "Wishing you a year of amazing adventures ahead!",
     "Your presence makes the world a brighter place!",
