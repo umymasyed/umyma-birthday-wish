@@ -1,14 +1,14 @@
 const messages = [
-    "May your day be filled with joy and laughter!",
-    "Wishing you a year of amazing adventures ahead!",
-    "Your presence makes the world a brighter place!",
-    "May all your dreams and wishes come true!",
-    "Here's to another year of creating beautiful memories!",
-    "Happy Birthday to someone who brings so much joy to everyone!",
-    "Celebrate your day with all the happiness you deserve!",
-    "A birthday as special as you are!",
-    "Hope your birthday is as sweet as cake!",
-    "May today be the start of a wonderful year for you!"
+    "May your day be filled with joy and laughter! 🎉😁",
+    "Wishing you a year of amazing adventures ahead! ✨🌟",
+    "Your presence makes the world a brighter place! 🌞❤️",
+    "May all your dreams and wishes come true! 🌠🎂",
+    "Here's to another year of creating beautiful memories! 📸🎈",
+    "Happy Birthday to someone who brings so much joy to everyone! 😊🥳",
+    "Celebrate your day with all the happiness you deserve! 🎁💐",
+    "A birthday as special as you are! 🎂🎉",
+    "Hope your birthday is as sweet as cake! 🍰🍭",
+    "May today be the start of a wonderful year for you! 🌅🌟"
 ];
 
 const colors = ["#FF6F61", "#6B5B95", "#88B04B", "#F7CAC9", "#92A8D1", "#034F84", "#F7786B", "#DE7A22", "#79C753", "#4A90E2"];
