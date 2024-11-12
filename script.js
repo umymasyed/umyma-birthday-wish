@@ -4,11 +4,6 @@ const messages = [
     "Your presence makes the world a brighter place!",
     "May all your dreams and wishes come true!",
     "Here's to another year of creating beautiful memories!",
-    "May your day be filled with joy and laughter!",
-    "Wishing you a year of amazing adventures ahead!",
-    "Your presence makes the world a brighter place!",
-    "May all your dreams and wishes come true!",
-    "Here's to another year of creating beautiful memories!",
     "Hope this special day brings you everything your heart desires!",
     "Cheers to a day as special and unique as you are!",
     "May your smile shine brighter today and always!",
@@ -45,7 +40,6 @@ const messages = [
     "Life is better with you in it. Here's to celebrating you today and every day!",
     "Wishing you a birthday filled with love, laughter, and endless happiness!"
 ];
-
 
 function typeWriter(text, element, speed = 50) {
     let i = 0;
